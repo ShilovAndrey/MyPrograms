@@ -16,7 +16,7 @@ public class Coacher {
             "сортировка книг.txt", "подключение к JDBC.txt"};
     private String[] algorithms = {"1_OrderedArray.txt", "2_ClassDataApp.txt", "3_StackApp.txt", "4_BracketsApp.txt",
             "5_Queue.txt", "6_PriorityQueue.txt","7_LinkList_Stack.txt","8_LinkListQueue.txt","9_LinkedList.txt",
-            "10_Recursion.txt","11_MergeSort.txt"};
+            "10_Recursion.txt","11_MergeSort.txt","12_BinaryTree.txt"};
     private String[] sql = {"1 create, insert.txt", "2 select,order.txt", "3 like, where IN.txt", "4 inner join.txt",
             "5 union.txt", "6 функции.txt", "7 группировка и агрегаты.txt", "8 подзапросы.txt",
             "9 внешние соединения.txt", "10 условная логика.txt"};
